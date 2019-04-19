@@ -6,6 +6,8 @@
 .temp
 .map
 
+dist
+
 package-lock.json
 
 node_module
