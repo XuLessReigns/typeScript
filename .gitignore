@@ -1,0 +1,11 @@
+
+.idea/
+.DS_Store
+.ffs_db
+.vscode
+.temp
+.map
+
+package-lock.json
+
+node_module
